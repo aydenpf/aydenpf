@@ -1,6 +1,6 @@
 - Hi, I’m @aydenpf
 - I’m interested in programming and expanding my knowledge in all areas of computer science.
-- I am a Bachelors of Science Computer Science Major and UNC Chapel Hill
+- I am a Bachelors of Science Computer Science Major at UNC Chapel Hill
 - I’m looking to collaborate on projects in the future.
 - How to reach me: afranklin1126@gmail.com
 
